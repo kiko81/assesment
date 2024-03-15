@@ -20,7 +20,7 @@ you are given working react app which serves as config panel for one of the algo
 
 Its pretty old, made when i was not aware of react hooks, so its class based.
 
-**The task is to refactor the app to functional components and demonstrate it**, whick means you have to create an Api with persistent layer with the corresponding endpoints found in `trac-api.ts` in services folder. Connect the api in `config.ts`
+**The task is to refactor the app to functional components and demonstrate it**, which means you have to create an Api with persistent layer with the corresponding endpoints found in `trac-api.ts` in services folder. Connect the api in `config.ts`
 
 Api may be done with any technology, the only requirement if in Python - FastApi.  
 You may use interfaces from the corresponding folder when designing db schema.  
