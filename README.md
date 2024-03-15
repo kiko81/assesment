@@ -30,4 +30,7 @@ Anyway, the frontend part of the assesment has more value, but only if it works 
 Deliverables - a repo or 2 (for react and backend) with the code to assess and test.  
 If any considerations about how to run - please provide how-to, especially on how to build db schema(sql script, migrations), if db not initialized on startup.
 
+SINGLE commit won't be good presentation of how you've worked, please commit often.  
+You may get feedback (presumably delivered as issues) along your progress if you provide repo links early in order to keep track of your work
+
 Good luck!
