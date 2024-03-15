@@ -60,9 +60,7 @@ export default class ControllersPage extends React.Component<{}, PageState> {
               <Link to={`controller/${val.number}`}>
                 <Button variant='link'>View</Button>
               </Link>
-              <Link to={`controller/graph/${val.number}`}>
-                <Button variant='link'>Graph</Button>
-              </Link>
+            
               </td>
             </tr>
         )

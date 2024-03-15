@@ -4,10 +4,10 @@ const cfg = () => {
                 tzOffset: new Date().getTimezoneOffset() / 60
         }
         const dev = {
-                baseUrl: 'http://localhost:40444/trac/'
+                baseUrl: 'your api url here - presumably localhost'
         }
         const prod = {
-                baseUrl: 'http://172.16.20.6:89/trac/'
+                baseUrl: '-'
         }
 
         return process.env.NODE_ENV === 'production'

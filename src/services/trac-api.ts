@@ -20,7 +20,7 @@ const put = async (route: string, body: any) => {
 };
 
 export default class TracApi {
-    static getGraphData= async (id: number, from: Date, to: Date) => await post('calculate/simulation', {id, from, to})
+    
     static controllerList = async () =>
         await get('controllers');
     static addController = async (model: IController) => await post('controllers', model)
