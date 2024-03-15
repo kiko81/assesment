@@ -16,16 +16,16 @@ You will also see any lint errors in the console.
 
 # ASSESMENT ITSELF
 
-you are given react app which serves as config panel for one of the algorithms for our adaptive control service (Trac).
+you are given working react app which serves as config panel for one of the algorithms for our adaptive control service (Trac).
 
-Its pretty old, made when i was not aware of react hooks, so its class based
+Its pretty old, made when i was not aware of react hooks, so its class based.
 
-_The task is to refactor the app to functional components and demonstrate it_, whick means you have to create an Api with persistent layer with the corresponding endpoints found in `trac-api.ts` in services folder.
+**The task is to refactor the app to functional components and demonstrate it**, whick means you have to create an Api with persistent layer with the corresponding endpoints found in `trac-api.ts` in services folder. Connect the api in `config.ts`
 
 Api may be done with any technology, the only requirement if in Python - FastApi.  
 You may use interfaces from the corresponding folder when designing db schema.  
 
-Anyway, the frontend part of the assesment has more value, but only if it works - so without backend it won't go, but don't bother much with it, a working one is sufficient, but don't allow duplicates in db
+Anyway, the frontend part of the assesment has more value, but only if it works - so without backend it won't go, so don't bother much with the backend, a working one is sufficient, but don't allow duplicates in db. Design improvement ot the UI sticking to used bootstrap is very welcome
 
 Deliverables - a repo or 2 (for react and backend) with the code to assess and test.  
 If any considerations about how to run - please provide how-to
