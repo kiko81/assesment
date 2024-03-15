@@ -25,9 +25,9 @@ Its pretty old, made when i was not aware of react hooks, so its class based.
 Api may be done with any technology, the only requirement if in Python - FastApi.  
 You may use interfaces from the corresponding folder when designing db schema.  
 
-Anyway, the frontend part of the assesment has more value, but only if it works - so without backend it won't go, so don't bother much with the backend, a working one is sufficient, but don't allow duplicates in db. Design improvement ot the UI sticking to used bootstrap is very welcome
+Anyway, the frontend part of the assesment has more value, but only if it works - so without backend it won't go, so don't bother much with the backend, a working one is sufficient, but don't allow duplicates in db. Design improvement ot the UI sticking to used bootstrap is very welcome. 
 
 Deliverables - a repo or 2 (for react and backend) with the code to assess and test.  
-If any considerations about how to run - please provide how-to
+If any considerations about how to run - please provide how-to, especially on how to build db schema(sql script, migrations), if db not initialized on startup.
 
 Good luck!
